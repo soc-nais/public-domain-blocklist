@@ -575,3 +575,4 @@ syscore.pages.dev
 csrss.netlify.app
 sisal.free.nf
 free.nf
+ult.wraithbot.net 
