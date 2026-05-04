@@ -1101,3 +1101,4 @@ panel.fefea22134.net
 0x666.info
 descarga-smtr.net
 ilovepng.info
+copy.fail
