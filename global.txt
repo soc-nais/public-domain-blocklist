@@ -1141,7 +1141,6 @@ care.sale
 com.k.sdk
 esicm.biz
 esmen.sbs
-gmail.com
 gname.com
 lgstd.net
 libtor.so
