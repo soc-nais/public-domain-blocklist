@@ -1,1 +1,2 @@
 oray.com
+ws-std06.sunlogin.oray.com
