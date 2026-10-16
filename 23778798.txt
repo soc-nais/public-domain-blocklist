@@ -1,3 +1,4 @@
 *.gsocket.io
 gsocket.io
 cdn.gsocket.io
+cedarribbon.com
